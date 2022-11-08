@@ -5,6 +5,4 @@ Final project implemented for the discipline ELE2395 - Evolucionary Computing.
 
 Matheus Nogueira
 
-alteração inutil
-
 Contact me at: matnogueira@gmail.com
